@@ -1,1 +1,1 @@
-# datavmining-project
+# datamining-project
